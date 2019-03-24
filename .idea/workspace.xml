@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc3f1c7-78a7-4761-9752-17ecaf703624" name="Default Changelist" comment="" />
+    <list default="true" id="dcc3f1c7-78a7-4761-9752-17ecaf703624" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/search_engine_crawl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/search_engine_website.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search_engine_website.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_searchengine/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_searchengine/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +28,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/search_engine_crawl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl/collect_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web_searchengine/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="523">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -37,32 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/search_engine_website.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl/query_keywords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_searchengine/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -72,8 +75,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,7 +85,11 @@
       <find>manchester united</find>
       <find>football</find>
       <find>manchester</find>
+      <find>Information Retrieval</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,12 +103,14 @@
         <option value="$PROJECT_DIR$/web_searchengine/urls.py" />
         <option value="$PROJECT_DIR$/crawl/query_keywords.py" />
         <option value="$PROJECT_DIR$/templates/search_engine_website.html" />
+        <option value="$PROJECT_DIR$/templates/search_engine_crawl.html" />
         <option value="$PROJECT_DIR$/web_searchengine/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="817" />
+    <option name="y" value="441" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -126,7 +135,7 @@
             <path>
               <item name="IR_SearchEngine" type="b2602c69:ProjectViewProjectNode" />
               <item name="IR_SearchEngine" type="462c0819:PsiDirectoryNode" />
-              <item name="IR_SearchEngine" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IR_SearchEngine" type="b2602c69:ProjectViewProjectNode" />
@@ -148,6 +157,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\#PEHCHUERJOEY#\PycharmProjects\IR_SearchEngine" />
       <recent name="C:\Users\#PEHCHUERJOEY#\PycharmProjects\IR_SearchEngine\crawl" />
     </key>
   </component>
@@ -298,12 +308,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553404997668</updated>
-      <workItem from="1553405066961" duration="12588000" />
+      <workItem from="1553405066961" duration="13678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12588000" />
+    <option name="totallyTimeSpent" value="13678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,6 +326,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50080776" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49919224" visible="true" weight="0.25" />
@@ -381,16 +392,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../first_site/votings/urls.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/collect_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web_searchengine/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -463,37 +464,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/query_keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web_searchengine/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl/query_keywords.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/importlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="-344">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/search_engine_website.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/search_engine_crawl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/collect_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web_searchengine/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="523">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

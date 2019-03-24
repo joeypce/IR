@@ -13,17 +13,20 @@
 
 <div style="padding-left: 20%; padding-top: 100px;">
 <table>
+    Time taken to execute query: {{ timetaken }} seconds<br/>
     {% if tweet_list %}
     There are {{ tweet_list|length }} records:
     <thead>
     <th>No.</th>
+    <th>User</th>
     <th>Tweet</th>
     </thead>
     <tbody>
         {% for e in tweet_list %}
     <tr>
-        <td>{{ forloop.counter }} </td>
-        <td> {{ e.text }} </td>
+        <td>{{ forloop.counter }}</td>
+        <td>{{ e.user.screen_name }}</td>
+        <td>{{ e.text }}</td>
     </tr>
         {% endfor %}
     {% else %}

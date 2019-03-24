@@ -1,5 +1,6 @@
 from django.shortcuts import render
 import pandas as pd
+import time
 from django.http import HttpResponse
 from django.core.exceptions import ObjectDoesNotExist
 
@@ -7,6 +8,9 @@ def searchengine_view(request):
     if request.method == 'POST':
         searchbartext = request.POST['searchbar']
         print(searchbartext)
+        import time
+        start_time = time.time()
+
         data = pd.read_json('crawl/football_and_teams.json', lines=True)
 
         ''' query keywords '''
@@ -27,7 +31,8 @@ def searchengine_view(request):
         ''' end of query '''
 
         context = {
-            'tweet_list': tweetText
+            'tweet_list': tweetText,
+            'timetaken': time.time() - start_time
         }
 
         print(list)
@@ -36,6 +41,4 @@ def searchengine_view(request):
     else:
         return render(request, 'search_engine_website.html')
 
-# def detail(request, question_id):
-#     return HttpResponse("You're looking at question %s." % question_id)
 
