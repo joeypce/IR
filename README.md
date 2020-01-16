@@ -1,5 +1,5 @@
-# IR_Project
+## Twitter Football Search Engine
 
 ## Responsibilities
-Joey (Data Crawling, User GUI for indexing and querying) <br/>
-Fatin (Data classification)
+Data Crawling, User GUI for indexing and querying: Joey <br/>
+Data Classification: Fatin
