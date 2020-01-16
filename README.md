@@ -1,5 +1,5 @@
 # IR_Project
 
 ## Responsibilities
-Joey (Crawl data, User GUI for indexing and querying)
+Joey (Data Crawling, User GUI for indexing and querying) <br/>
 Fatin (Data classification)
