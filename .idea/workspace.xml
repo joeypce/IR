@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d2c1b0-c13e-4059-bb92-103ab2a75cd3" name="Default Changelist" comment="" />
+    <list default="true" id="73d2c1b0-c13e-4059-bb92-103ab2a75cd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/IR_SearchEngine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IR_SearchEngine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -35,5 +39,11 @@
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1579513355304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579513355304" />
   </component>
 </project>
