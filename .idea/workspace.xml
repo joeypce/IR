@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d2c1b0-c13e-4059-bb92-103ab2a75cd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IR_SearchEngine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IR_SearchEngine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IR_Codes/IR_Codes/IR_Q1-Q3/IR_SearchEngine" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,10 +39,24 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d2c1b0-c13e-4059-bb92-103ab2a75cd3" name="Default Changelist" comment="" />
+      <created>1580373318575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580373318575</updated>
+      <workItem from="1580373319789" duration="304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1579513355304">
+    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1580373622252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579513355304" />
+    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580373622252" />
   </component>
 </project>
